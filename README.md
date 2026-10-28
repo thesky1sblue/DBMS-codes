@@ -1,2 +1,2 @@
 # DBMS-codes
-basic DBMS notes &amp; shit
+basic DBMS notes &amp; 
